@@ -1,0 +1,31 @@
+{
+  "basket": [
+    {
+      "productImages": "https://i.dummyjson.com/data/products/1/1.jpg",
+      "productId": 1,
+      "productTitle": "iPhone 9",
+      "productPrice": 549,
+      "productBrand": "Apple",
+      "productCategory": "smartphones",
+      "id": 1
+    },
+    {
+      "productImages": "https://i.dummyjson.com/data/products/1/1.jpg",
+      "productId": 1,
+      "productTitle": "iPhone 9",
+      "productPrice": 549,
+      "productBrand": "Apple",
+      "productCategory": "smartphones",
+      "id": 2
+    },
+    {
+      "productImages": "https://i.dummyjson.com/data/products/1/1.jpg",
+      "productId": 1,
+      "productTitle": "iPhone 9",
+      "productPrice": 549,
+      "productBrand": "Apple",
+      "productCategory": "smartphones",
+      "id": 3
+    }
+  ]
+}
